@@ -5,7 +5,7 @@
 	"logo": "https://node-js-sample.herokuapp.com/node.svg",
 	"env": {
 		"RUNNING_ON_HEROKU": "true",
-		"APP_SECRET": ""
+		"APP_SECRET": "GET_THIS_FROM_SALESFORCE"
 	},
 	"keywords": [
 		"node",
