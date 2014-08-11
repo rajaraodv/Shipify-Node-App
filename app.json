@@ -1,0 +1,15 @@
+{
+	"name": "Shipify Node App",
+	"description": "An example node.js app used for force.com canvas",
+	"repository": "https://github.com/rajaraodv/Shipify-Node-App",
+	"logo": "https://node-js-sample.herokuapp.com/node.svg",
+	"env": {
+		"RUNNING_ON_HEROKU": "true",
+		"APP_SECRET": ""
+	},
+	"keywords": [
+		"node",
+		"express",
+		"static"
+	]
+}
