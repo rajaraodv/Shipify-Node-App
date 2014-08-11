@@ -2,7 +2,7 @@
 ![image](https://raw.github.com/rajaraodv/shipment/master/images/shipment-readme.jpg)
 
 
-#### Continuous Integration Result
+#### Continuous Integration Result:
 [![Build Status](https://travis-ci.org/rajaraodv/shipment.png?branch=master)](https://travis-ci.org/rajaraodv/shipment)
 
 ## About
