@@ -1,9 +1,24 @@
+
+
+[![Build Status](https://travis-ci.org/rajaraodv/shipment.png?branch=master)](https://travis-ci.org/rajaraodv/shipment)
+
+
+
+
+#### Deploy on Heroku
+The 'Heroku Button' makes it trivial to run this app in your Heroku account. Click on the button and add environment variables `RUNNING_ON_HEROKU` to `true` and also set Salesforce connected app secret `APP_SECRET` value from Salesforce (see down below to see how to get APP_SECRET)  
+<p align="center">
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/rajaraodv/Shipify-Node-App)
+
+
+<br>
+<br>
+<br>
 <p align="center">
 ![image](https://raw.github.com/rajaraodv/shipment/master/images/shipment-readme.jpg)
 
 
-#### Continuous Integration Result:
-[![Build Status](https://travis-ci.org/rajaraodv/shipment.png?branch=master)](https://travis-ci.org/rajaraodv/shipment)
+
 
 ## About
 This is a proof of concept shipment fulfillment app that shows how to tightly integrate a 3rd party app like this one into Salesforce using <b>Force.com Canvas</b>.
